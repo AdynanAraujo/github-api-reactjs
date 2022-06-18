@@ -1,3 +1,9 @@
+<h1 align = "center">Criando um front-end totalmente componentizado na prática com ReactJS</h1>
+<h3>Este projeto faz parte do Bootcamp Spread Fullstack Developer que participei na Dio. </h3>
+<div align = "center">
+<img src="img_readme/img.PNG" alt="imagem" >
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
